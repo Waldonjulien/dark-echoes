@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(57, 7, 57);
+}
+
+h2 {
+  font-size: 16pt;
+  color: salmon;
+}
+
+li {
+  background-color: black;
+  width: 300px;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 10px;
+  color: salmon;
+  list-style-type: none;
+}
+
+h1 {
+  color: salmon;
+}
+
+detail {
+  font-size: 20pt;
+  color: salmon;
+}
+
+p {
+  color: salmon;
+}
+
+.details {
+  color: salmon;
+  font-size: 14pt;
+}
